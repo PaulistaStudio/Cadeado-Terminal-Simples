@@ -24,8 +24,6 @@ def linhas():
     elif esc==4:
         esc=1
         return ["linha 1:",l1,tl1]
-    else:
-        print("deu erro ai boy")
 def numero(atual):
     if atual==9:
         atual=0
@@ -73,4 +71,3 @@ while True:
         fechado=False
     elif mudar=="E" and chave==True and fechado==False and v4!=(tl1,tl2,tl3):
         print("fechado")
-    print("funciona")
