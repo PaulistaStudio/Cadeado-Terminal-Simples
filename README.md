@@ -1,10 +1,6 @@
 # Cadeado-Terminal-Simples
 Um simulador de cadeado desenvolvido em Python para terminal, com senha numérica, movimentação por teclado e sistema de alteração de senha
 
-# Cadeado Terminal
-
-Um simulador de cadeado desenvolvido em Python para terminal.
-
 ## Controles
 
 - **W** — muda para a próxima linha
